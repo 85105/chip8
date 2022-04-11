@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "chip8memory.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
